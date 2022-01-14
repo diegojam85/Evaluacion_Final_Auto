@@ -1,0 +1,5 @@
+test\java\junitTest\TestConexionTest.class
+test\java\StepDefinition\StepAgenda.class
+test\java\Runner\RunnerAgenda.class
+test\java\StepDefinition\StepLogin.class
+test\java\Runner\RunnerLogin.class
